@@ -4,7 +4,7 @@
 
 ![intro image](first.png)
 
-[*Generative Design Language, Concepts, Examples*](GenerativeDesign-s21-intro-deck.pdf)
+Click the following link: [*Generative Design Language, Concepts, Examples*](GenerativeDesign-s21-intro-deck.pdf), and then click "Download."
 
 ##### Referenced Works from the Deck
 
