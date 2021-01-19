@@ -69,7 +69,7 @@ Compile everything in the class Miro board for sharing with the class next week.
 
 ##### Syllabus
 
-- Read [it](../GenerativeDesign-s21-syllabus-v1.pdf) and let Zach know if anything is unclear!
+- Read [it](../logistics/GenerativeDesign-s21-syllabus-v1.pdf) and let Zach know if anything is unclear!
 
 
 ##### Reading+Listening
