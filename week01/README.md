@@ -55,11 +55,13 @@ Choose a favorite generative artist as a small group discussed in any of these p
 
 After creating the presentation, take some time to, as a group, imagine how this particular artist would bring their existing artist POV, process, and tools to *design* the following common products.
 
-- Coffee Mug 
+- Coffee Mug
+- Tote Bag
 - Fork, Spoon, Knife
+- Watch or Wall Clock
 - Simple Table and Chair
 
-Do a few hand sketches of what you might imagine these objects would look like. Don't worry about the quality of the sketches, and make sure everyone from the team is contributing. 
+Do a few hand sketches of what you might imagine these objects could look like. Don't worry about the quality of the sketches, and make sure everyone from the team is contributing. Freely use color and whatever sketching media you prefer.
 
 Compile everything in the class Miro board for sharing with the class next week.
 

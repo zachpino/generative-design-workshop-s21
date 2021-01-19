@@ -1,4 +1,4 @@
-# Generative Design Workshop · Small Data
+# Generative Design Workshop Spring 2021
 
 Welcome to the course materials for the IIT Institute of Design *Generative Design Workshop* introductory course to computational design approaches, algorithmic design tools, and experimental data visualization and physicalization.
 
