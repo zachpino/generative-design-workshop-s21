@@ -2,7 +2,7 @@
 
 ### Slides
 
-![intro image](intro.png)
+![intro image](first.png)
 
 [*Generative Design Language, Concepts, Examples*](GenerativeDesign-s21-intro-deck.pdf)
 
