@@ -16,4 +16,4 @@ Like all courses affected by the ongoing pandemic, we will use a combination of 
 
 -----
 
-- Week 01 · [Course Overview](week01/README.md)
+- Week 01 · [Course Overview and Intro to Generative Design](week01/README.md)

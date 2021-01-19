@@ -4,57 +4,84 @@
 
 ![intro image](intro.png)
 
-[Generative Design and *Small Data* Intro Presentation](small-data.pdf)
+[*Generative Design Language, Concepts, Examples*](GenerativeDesign-s21-intro-deck.pdf)
+
+##### Referenced Works from the Deck
+
+- [Joris Laarman](https://www.jorislaarman.com) · [Bone Chair](https://www.jorislaarman.com/work/bone-chair/)
+- [Charles Minard](https://en.wikipedia.org/wiki/Charles_Joseph_Minard) · [Collected Works](https://www.nationalgeographic.com/news/2017/03/charles-minard-cartography-infographics-history/)
+- [W.E.B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) · [The Georgia Negro](https://medium.com/nightingale/w-e-b-du-bois-staggering-data-visualizations-are-as-powerful-today-as-they-were-in-1900-64752c472ae4)
+- [Edward Tufte](https://www.edwardtufte.com/tufte/) · [Beautiful Evidence](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=000262)
+- Nicholas Felton · [Feltron](http://feltron.com)
+- [Giorgia Lupi](http://giorgialupi.com) and [Stefanie Posavec](http://www.stefanieposavec.com) · [Dear Data](http://www.dear-data.com/theproject)
+- [Mischer Traxler](https://mischertraxler.com) · [Idea of Tree](https://mischertraxler.com/projects/the-idea-of-a-tree-process/)
+- [Desire Lines](https://en.wikipedia.org/wiki/Desire_path)
+- [Kintsugi](https://en.wikipedia.org/wiki/Kintsugi)
+- [Hasami](http://www.hasami-porcelain.com/about/en.html) and [Heath](https://www.heathceramics.com)
+- [Quipu](https://en.wikipedia.org/wiki/Quipu) and [Inuit Hand Maps](https://www.atlasobscura.com/articles/greenland-wooden-maps-ammassalik)
+- [Frank Gilbreth](https://en.wikipedia.org/wiki/Frank_Bunker_Gilbreth) · [Factory Movements](http://dataphys.org/list/wire-models-of-factory-worker-movements/)
+- [Iohanna Pani Nicenboim](https://iohanna.com) · [Form Follows Data](https://iohanna.com/Form-Follows-Data)
+- [Adrien Segal](https://www.adriensegal.com) 
+- Suntory · [DNA Glass](https://adland.tv/adnews/suntory-dna-glass-2016-122-japan)
+- [Lesia Trubat](https://vimeo.com/lesiatrubat) · [E-Traces](https://www.behance.net/gallery/21108721/E-TRACES)
+- [Layer Design](https://layerdesign.com/) · [Go](https://layerdesign.com/project/go-3/%23top-page#top-page)
+- [Vera Molnar](http://www.veramolnar.com)
+- [Jared Tarbell](http://www.complexification.net/) · [Substrate](http://www.complexification.net/gallery/machines/substrate/index.php)
+- [Free Speech Flag](https://en.wikipedia.org/wiki/Free_Speech_Flag) and [Illegal Numbers](https://en.wikipedia.org/wiki/Illegal_number) and [Steganography](https://en.wikipedia.org/wiki/Illegal_number)
+- [Aranda Lasch](http://arandalasch.com/work/featured/) 
+- [Nervous System](https://n-e-r-v-o-u-s.com)
+- [Kram Weisshaar](https://www.kramweisshaar.com) · [Breeding Tables](https://www.kramweisshaar.com/projects/breeding-tables)
+- [Patrik Schumacher](https://www.patrikschumacher.com/index.htm) · [Parametric Semiology](https://www.patrikschumacher.com/Texts/Design%20of%20Information%20Rich%20Environments.html)
+- [Studio Gang](https://studiogang.com) · [Solar Carve Tower](https://www.dezeen.com/2019/08/09/solar-carve-tower-studio-gang-new-york-high-line/)
+- Seung Lee · [Sleep Blanket](https://www.theverge.com/2019/7/21/20699484/sleep-blanket-data-visualisation-seung-lee)
+- [Haelo Design](http://www.haelodesign.com) · [Look of Love](http://www.haelodesign.com/manifesting-the-look-of-love)
+- [Paul Heinicker](http://paulheinicker.com)· [Good Night SMS](http://paulheinicker.com/goodnightsms/)
+- [Floyd Home](https://floydhome.com) · [Leg](https://floydhome.com/products/the-floyd-leg-16?color=White)
 
 -----
 
-### Course Online Resources
+##### Research Exercise
 
-Like all courses affected by the ongoing pandemic, we will use a combination of online platforms alongside (hopefully soon) in-person facilities through the semester.  
+Take another look through the previously shared [Why Love Generative Art?](https://www.artnome.com/news/2018/8/8/why-love-generative-art) and browse the similar [Generative Art Guide](https://aiartists.org/generative-art-design) and [Algorithmic Beauty](https://medium.com/feed-fatigue/algorithmic-beauty-10-artists-pushing-the-boundaries-of-code-2d55b58aedea).
 
-- Zoom for class discussion (check your email for the link)
-- This Github page for resource collection, presentations, and formal assignment documentation
-- Miro for collaborative class sessions 
-- Google Drive for bi-directional file drops
+Choose a favorite generative artist as a small group discussed in any of these pages, and prepare a ~5 frame/~10 minute presentation in Miro to share with the class next week. If in doubt, aim earlier in history — it will be easier to find information and resources! Aspire to address the following points...
 
------
+- Boring biography stuff: who is the artist, how did they discover generative tools?
+- Find some representative examples of their work through their career and choose some favorites to share with the class.
+- What computational or physical process are involved in creating the artist's work? How did these processes change through their career?
+- What was the critical reception to their work? Can you find any other collaborators/artists/musicians/designers... who were directly inspired by their work? 
+- What is the relationship in the artist's work between *randomness* and *pattern*?
+- This is hard: Try to describe the artist's point of view on the relationship between human, machine, and artistic expression. Why do they bother making art with computers/algorithms/data? 
 
-### Exercise
+After creating the presentation, take some time to, as a group, imagine how this particular artist would bring their existing artist POV, process, and tools to *design* the following common products.
 
-Based on the work of [Giorgia Lupi](http://giorgialupi.com) & [Stefanie Posavec](http://www.stefanieposavec.com) in [Dear Data](http://www.dear-data.com/theproject), which was [acquired by MOMA in 2016](https://medium.com/@giorgialupi/dear-data-has-been-acquired-by-moma-but-this-isnt-what-we-are-most-excited-about-bdaa3376d9db), let's do some manual data aggregation and create some hand-drawn data visualizations with primary school art supplies!
+- Coffee Mug 
+- Fork, Spoon, Knife
+- Simple Table and Chair
 
-![dear data](dd.jpg)
+Do a few hand sketches of what you might imagine these objects would look like. Don't worry about the quality of the sketches, and make sure everyone from the team is contributing. 
 
-Let's consider the *Dear Data* week 12 "a week of people" and week 25 "a week of friends" prompts.
-
-Start by mining your mobile computing device for data, and construct a multi-dimensional dataset for visualization. Consider all the different ways we could encode messaging data: content, frequency, category, directionality, source and target, sentiment, emojis and attached/embedded media....
-
-Based on this data, create a set of five visualizations on one side of a postcard-sized piece of paper, with keys communicating how to read your encoding system on the other side. 
+Compile everything in the class Miro board for sharing with the class next week.
 
 -----
 
 ### Homework
 
-##### Reading
+##### Syllabus
 
-- Chapter 1 (PDF pages 11-45) from Edward Tufte's [*Beautiful Evidence*](https://drive.google.com/drive/folders/1MFnHnPpG6v-mKBOOcnNrqlkPvNoJlrY-?usp=sharing)
+- Read [it](../GenerativeDesign-s21-syllabus-v1.pdf) and let Zach know if anything is unclear!
 
-##### Listening 
 
-- [*Data Stories* Podcast](https://datastori.es/149-xkcd-or-the-art-of-data-storytelling-with-web-cartoons/) interview with Randall Munroe of [xkcd](https://www.xkcd.com) web comic fame.
+##### Reading+Listening
 
-- [*Data Stories* Podcast](https://datastori.es/125-researching-the-boundaries-of-infovis-with-sheelagh-carpendale/) interview with Sheelagh Carpendale.
+- Listen to [Episode 2](https://generativeartistry.com/episodes/generative-art-and-creative-code/) of the [Generative Artistry Podcast](https://generativeartistry.com). Look-up any unfamiliar names or terms, click through the links in the transcription, and write down **5 reflections or questions** on the episode for sharing next week during class discussion.
+
 
 ##### Research
 
-- Compose a one to three page PDF on a generative design or data visualization project or series **not** mentioned in the course kick-off slide deck (though feel free to investigate other projects by the referenced designers/visualizers/architects). Attempt to provide the kind of content one might find on a [museum tombstone](https://en.wikipedia.org/wiki/Museum_label), as well as a key or overlay describing how to read the data embedded in the object/visualization. Consult the second page of the [course syllabus](../generative-design-workshop.pdf) for additional course info, as well as for a few web resources where you can start this research.
+- Finish the research exercise and prepare to share it in-class next week.
 
-##### Visualization Practice (This will be ongoing!)
-
-- Take a peak at the Dear Data first week on *Clock* and time visualizations in preparation for next week. Through the week, construct a dataset for your own visualization purposes on how you are spending your time, and produce 5 visualizations on 5"x7" carts. Explore both 2D and 3D visualization opportunities, and prepare to share these with your peers. Crayons, color pencils, and play-doh are available in the faculty corridor on Zach's desk.
-
-- Add a legibility key to the backs of any visualizations you completed in class, and bring these in to share as well next week.
 
 ##### Software Installation
 
-- Immediately before class next week (Tuesday, January 28), download and install the evaluation version of [Rhinoceros 6](https://www.rhino3d.com/download). You may decide to purchase it for the [student cost of $195](https://www.rhino3d.com/sales/north-america/United_States).
+- Immediately before class next week (ideally Monday, January 25), download and install the **evaluation** version of [Rhinoceros 7](https://www.rhino3d.com/download/) for your computing platform. You may decide later to purchase it for the [student cost of $195](https://www.rhino3d.com/sales/north-america/United_States), but we will be able to get everything we need to done in the evaluation period.
