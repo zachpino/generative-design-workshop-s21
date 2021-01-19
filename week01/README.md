@@ -8,9 +8,14 @@
 
 -----
 
-### Course Resource Repository
+### Course Online Resources
 
-Access relevant readings, datasets, and tutorials for the course [here](https://drive.google.com/drive/folders/1MFnHnPpG6v-mKBOOcnNrqlkPvNoJlrY-?usp=sharing). 
+Like all courses affected by the ongoing pandemic, we will use a combination of online platforms alongside (hopefully soon) in-person facilities through the semester.  
+
+- Zoom for class discussion (check your email for the link)
+- This Github page for resource collection, presentations, and formal assignment documentation
+- Miro for collaborative class sessions 
+- Google Drive for bi-directional file drops
 
 -----
 

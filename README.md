@@ -1,24 +1,19 @@
 # Generative Design Workshop · Small Data
 
-Institute of Design course in generative design approaches and tools, and experimental data visualization/physicalization loosely focused on supporting behavior change through personal data collection and modeling.
+Welcome to the course materials for the IIT Institute of Design *Generative Design Workshop* introductory course to computational design approaches, algorithmic design tools, and experimental data visualization and physicalization.
 
-[Formal Syllabus](generative-design-workshop.pdf)
+[Formal Syllabus](logistics/GenerativeDesign-s21-syllabus-v1.pdf)
+
+-----
+
+### Course Online Resources
+
+Like all courses affected by the ongoing pandemic, we will use a combination of online platforms alongside (hopefully soon) in-person facilities through the semester.  
+
+- Zoom for *unrecorded* class discussions (check your email for the link)
+- [This Github page](https://github.com/zachpino/generative-design-workshop-s21) for resource collection, presentations, and formal assignment documentation
+- [Miro]() for collaborative class sessions and file exchange (We may also occasionally need Google Drive for large file distribution)
 
 -----
 
 - Week 01 · [Course Overview](week01/README.md)
-- Week 02 · [Parametric Definitions](week02/README.md)
-- Week 03 · [Randomness and Data Flow](week03/README.md)
-- Week 04 · [Grids as Data Scaffolds](week04/README.md)
-- Week 05 · [Data Forms](week05/README.md)
-- Week 06 · [Algorithmic Processes](week06/README.md)
-- Week 07 · [Mesh Construction](week07/README.md)
-- [Final Briefs](briefs.md)
-- Spring Break! 
-- Week 08 · [Evolutionary Forms and Genetic Algorithms](week08/README.md)
-- Week 09 · [Generative Algorithms and Grammars](week09/README.md)
-- Week 10 · [Examples](week10/README.md)
-- Week 11 · [More Examples and Rendering](week11/README.md)
-- Week 12 · [Even More Examples](week12/README.md)
-- Week 13 · [Final Logistics](week13/README.md)
-- Week 14 · [Wrapping-Up Conversations and Critique](week14/README.md)
