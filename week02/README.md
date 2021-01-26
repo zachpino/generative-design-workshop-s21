@@ -88,7 +88,7 @@ Unfortunately, there are not a whole lot of good beginner-level tutorials for Gr
 
 ##### Sketching (1 hour)
 
-Reference the style of the mug technical drawing above and create, on paper, simple *parametric definitions* for these objects and challenges. Definitely begin this work by searching to see the existing range of design solutions, and attempt to delineate many specific designable parameters. Afterwards, consider the stretch goals in parentheses.
+Reference the style of the mug technical drawing below and create, on paper, simple parametric definitions for these objects and challenges. Start by making a list of the obvious parameters (width, height, depth...), then get more specific. Then, search to see the existing range of design solutions, and attempt to delineate even more specific designable parameters. Afterwards, consider the stretch goals in parentheses.
 	
 - An *umbrella* (usable for not only rain but also snow, sun, and wind)
 - A simple *wallpaper pattern* (accomodating users with various degrees of [vision impairment](https://en.wikipedia.org/wiki/Color_blindness) and [neurodiversity](https://en.wikipedia.org/wiki/Neurodiversity))
