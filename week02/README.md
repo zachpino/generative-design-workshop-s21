@@ -94,13 +94,15 @@ Reference the style of the mug technical drawing below and create, on paper, sim
 - A simple *wallpaper pattern* (accomodating users with various degrees of [vision impairment](https://en.wikipedia.org/wiki/Color_blindness) and [neurodiversity](https://en.wikipedia.org/wiki/Neurodiversity))
 - An *office chair* (supporting people in unusual postures/movements)
 
-##### Grasshopper 1 (.5 hours)
+##### Grasshopper 1 (1 hours)
 
-Download and open (double-click the Grasshopper file while Grasshopper is open, or File->Open from within Grasshopper) the [mug grasshopper definition](cup-grasshopper) presented above. We did not cover this in class, but still play with the sliders and try to understand what is happening in the definition. Recall that you can turn the "preview" on and off for different nodes. Come in with any questions next week.
+Based on the images above of the Grasshopper interface, recreate as best you can the [Parametric Shot Glass](shotglass-grasshopper.png) and [Parametric Mug](cup-grasshopper.png) examples above. (Those two links will take you to the images of the Grasshopper interface, which you can then download and view).
+
+If you find yourself struggling -- download and open (double-click the Grasshopper file while Grasshopper is open, or File->Open from within Grasshopper) the finished grasshopper definitions ([mug](cup-definition.gh) and [shotglass](shotglass-definition.gh) and take a look at how they work! Recall that you can turn the visibility on and off for different nodes by right-clicking on the node and turning off the "preview." Holding down "shift" will let you connect multiple wires to a single input. Come in with any questions next week! 
 
 ##### Grasshopper 2 (1 hour)
 
-To reinforce the Grasshopper tools we covered this week, create a parametric definition for a simple stool in Grasshopper. You will need nodes for *Construct Point*, *Circle CNR*, *Extrude*, *Cap Holes*, *Polygon*, *Discontinuity*, *Line*,  and *Pipe* to create this geometry. Please try this first, but here's a [hint](stool-grasshopper.png) for when you're stuck.
+To advance the Grasshopper stuff we quickly covered this week, create a parametric definition for a simple stool in Grasshopper. You will need nodes for *Construct Point*, *Circle CNR*, *Extrude*, *Cap Holes*, *Polygon*, *Discontinuity*, *Line*,  and *Pipe* to create this geometry. Please try to build it first, but here's a [hint](stool-grasshopper.png) for when you're stuck.
 
 ![stool screenshot](stool-screenshot.png)
 
@@ -110,6 +112,8 @@ Extra Credit: Could you imagine what would we need to expand for our simple defi
 
 ##### Reading + Listening (1 hour)
 
+Read everyone's report in the Week 1 Board! Such great examples and thinking on display.
+
 Though seemingly unrelated to the generative art stuff discussed so far, read this short case-study by [Sidewalk Labs](https://sidewalklabs.com) describing their neighborhood design tool: [*A first step toward the future of neighborhood design*](https://www.sidewalklabs.com/blog/a-first-step-toward-the-future-of-neighborhood-design/).
 
-Listen to the recent episode of the *City of the Future Podcast* : [Generative Design](https://cityofthefuture.libsyn.com/generative-design) where members of the Sidewalk Labs team discuss generative design's role in future urban planning and development. Look-up any unfamiliar names or terms and write down **5 reflections** on the episode for sharing next week during class discussion.
+Listen to the recent episode of the *City of the Future Podcast* : [Generative Design](https://cityofthefuture.libsyn.com/generative-design) where members of the Sidewalk Labs team discuss generative design's role in future urban planning and development. Look-up any unfamiliar names or terms and write down **3 questions, surprises, or reflections** on the episode for sharing next week during class discussion.
