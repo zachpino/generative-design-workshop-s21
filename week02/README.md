@@ -90,9 +90,9 @@ Unfortunately, there are not a whole lot of good beginner-level tutorials for Gr
 
 Reference the style of the mug technical drawing above and create, on paper, simple *parametric definitions* for these objects and challenges. Definitely begin this work by searching to see the existing range of design solutions, and attempt to delineate many specific designable parameters. Afterwards, consider the stretch goals in parentheses.
 	
-	- An *umbrella* (usable for not only rain but also snow, sun, and wind)
-	- A simple *wallpaper pattern* (accomodating users with various degrees of [vision impairment](https://en.wikipedia.org/wiki/Color_blindness) and [neurodiversity](https://en.wikipedia.org/wiki/Neurodiversity))
-	- An *office chair* (supporting people in unusual postures/movements)
+- An *umbrella* (usable for not only rain but also snow, sun, and wind)
+- A simple *wallpaper pattern* (accomodating users with various degrees of [vision impairment](https://en.wikipedia.org/wiki/Color_blindness) and [neurodiversity](https://en.wikipedia.org/wiki/Neurodiversity))
+- An *office chair* (supporting people in unusual postures/movements)
 
 ##### Grasshopper 1 (.5 hours)
 
