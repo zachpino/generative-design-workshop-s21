@@ -96,9 +96,11 @@ Reference the style of the mug technical drawing below and create, on paper, sim
 
 ##### Grasshopper 1 (1 hours)
 
-Based on the images above of the Grasshopper interface, recreate as best you can the [Parametric Shot Glass](shotglass-grasshopper.png) and [Parametric Mug](cup-grasshopper.png) examples above. (Those two links will take you to the images of the Grasshopper interface, which you can then download and view).
+Based on the images above of the Grasshopper interface, recreate as best you can the [Parametric Shot Glass](shotglass-grasshopper.png) and [Parametric Mug](cup-grasshopper.png) examples above in two different Grasshopper files. (Those two links will take you to the images of the Grasshopper interface, which you can then download and view).
 
-If you find yourself struggling -- download and open (double-click the Grasshopper file while Grasshopper is open, or File->Open from within Grasshopper) the finished grasshopper definitions ([mug](cup-definition.gh) and [shotglass](shotglass-definition.gh) and take a look at how they work! Recall that you can turn the visibility on and off for different nodes by right-clicking on the node and turning off the "preview." Holding down "shift" will let you connect multiple wires to a single input. Come in with any questions next week! 
+[Reference the class recording](https://drive.google.com/drive/u/2/folders/1HNXY3NQoNRvvJG3QXfBk_TA7wyrBwng7).
+
+If you find yourself struggling -- download and open (double-click the Grasshopper file while Grasshopper is open, or File->Open from within Grasshopper) the finished grasshopper definitions ([mug](cup-definition.gh) and [shotglass](shotglass-definition.gh)) and take a look at how they work! Recall that you can turn the visibility on and off for different nodes by right-clicking on the node and turning off the "preview." Holding down "shift" will let you connect multiple wires to a single input. Come in with any questions next week! 
 
 ##### Grasshopper 2 (1 hour)
 
