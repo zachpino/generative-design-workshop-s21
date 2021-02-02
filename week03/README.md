@@ -95,7 +95,7 @@ We can recreate many aspects of this work without much difficulty!
 
 American generative artist [Jared Tarbell](http://www.complexification.net/gallery/) has long been fascinated by how individual agents following simple rules can create structures of incredible visual and functional complexity. He has become especially associated with the iteratively-derived [Substrate Algorithm](http://www.complexification.net/gallery/machines/substrate/index.php), which models how a randomly moving, angularly-constrained set of agents might carve up a given space. The algorithm has been used to model crystal growth, urban sprawl, and resource allocation optimization — and also makes incredibly haunting images that evoke city and transit networks.
 
-![substrate](tarbell.jpg)
+![substrate](substrate.jpg)
 
 Check out this [interactive explainer](https://inconvergent.net/generative/fractures/) on the Substrate Algorithm for more info.
 
