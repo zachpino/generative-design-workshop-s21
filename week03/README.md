@@ -75,6 +75,17 @@ Consult this [plain language explainer](http://www.statisticsblog.com/2012/02/a-
 Let's get better at handling lists of data and randomness in Grasshopper by creating some generative art featuring controlled randomness and data trees. In particular, focus on how *graft* and *flatten* nodes allow us to [manipulate the structure of data trees](https://www.youtube.com/watch?v=Pkmht52TXlY), how *range* and *series* nodes generate streams of incrementing numbers, and how *remap* and *bounds* can be used to transform numbers from one domain to another. 
 
 
+#### Exploring Grafting and Flattening
+This example definition, which creates evenly-spaced, parallel arcs connecting two profiles somewhat similar to the [ribs of a boat hull frame](https://en.wikipedia.org/wiki/Rib_(nautical)) hopefully clarifies the principles of grafting and flattening. Play with all the sliders! 
+
+[Download](ribbed-hull-definition.gh)
+
+![Grasshopper Definition](ribbed-hull-grasshopper.png)
+
+![Grasshopper Recreation](ribbed-hull-screenshot.png)
+
+
+
 #### After Vera Molnar
 
 Hungarian artist [Vera Molnar](http://www.veramolnar.com), one of the earliest and most prodigious generative artists, often explored distorted grids of polygons in her work. Of particular note is the series *Structure de Quadrilatéres*, which feature randomly rotated and colored rectangles arranged in a broken, square grid.
@@ -83,7 +94,7 @@ Hungarian artist [Vera Molnar](http://www.veramolnar.com), one of the earliest a
 
 We can recreate many aspects of this work without much difficulty!
 
-[Download](molnar.gh)
+[Download](molnar-definition.gh)
 
 ![Grasshopper Definition](molnar-grasshopper.png)
 
@@ -101,53 +112,26 @@ Check out this [interactive explainer](https://inconvergent.net/generative/fract
 
 We can use the Substrate Algorithm to create models like [Sidewalk Lab's *Delve* tool](https://www.sidewalklabs.com/blog/a-first-step-toward-the-future-of-neighborhood-design/)!
 
-[Download](substrate.gh)
+[Download](substrate-definition.gh)
 
 ![Grasshopper Definition](substrate-grasshopper.png)
 
 ![Grasshopper Recreation](substrate-screenshot.png)
 
-
-
-#### After Peter Saville 
-
-![joy division](joydivision.jpg)
-
-Best known for adorning Joy Division's *excellent* [Unknown Pleasures](https://en.wikipedia.org/wiki/Unknown_Pleasures) (which you should [absolutely listen to](https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo) while working in Grasshopper), the graphic artists/designer [Peter Seville](https://en.wikipedia.org/wiki/Peter_Saville_(graphic_designer)) was one of the earliest implementors of generative and data-driven art approaches for mass audiences. He fundamentally defined the aesthetic of [New Wave](https://en.wikipedia.org/wiki/New_wave_music) through his posters, album covers, and motion graphics — and is the direct ancestor of contemporary [vaporwave](https://en.wikipedia.org/wiki/Vaporwave) aesthetics. 
-
-Though this famous record cover is [based on real astronomical data](https://www.rollingstone.com/music/music-news/joy-divisions-unknown-pleasures-cover-the-science-behind-an-image-191126/), we will model our interpretation with controlled randomness in Grasshopper.
-
-[Download](unknown-pleasures-definition.gh)
-
-![Grasshopper Definition](unknown-pleasures-grasshopper.png)
-
-![Grasshopper Unknown Pleasures Recreation](unknown-pleasures-screenshot.png)
-
 -----
 
 ### Homework
 
-##### Grasshopper (1.5 hours): After George Nees
+##### Grasshopper (4 hours)
 
-![Cubic Disarray](nees2.png)
+Recreate the three examples above, paying special attention to grafting, flatterning, and random nodes, and compose any questions that bubble up in Miro. We'll spend lots of time next week in Grasshopper, so please log and plan to share any issues you encounter.
 
-One of the famous "3N" [pioneers of computer graphics](https://centerprode.com/ojit/ojit0101/coas.ojit.0101.02013g.pdf), the German artist [George Nees](https://en.wikipedia.org/wiki/Georg_Nees) was an early implementor and codifier of computer graphics and drawing machines as viable methods of artistic expression. His innovations in algorithmic thinking directly seeded the aesthetics for many disciplines such as computer animation and immersive environments, and his work in definiting *dataesthetics* was a huge inspiration for [Syd Mead](https://www.nytimes.com/2020/01/03/arts/design/syd-mead-dead.html), who himself is largely responsible for the enduring style of sci-fi imagery featured in films such as *Blade Runner*, *Tron*, and *Aliens*.
-
-One of Nees' most famous works is *Cubic Disarray* (shown above), which you are asked to emulate in Grasshopper. Here is [one possible approach](cubic-disarray-simple-grasshopper.png) of many, though try it on your own first! The work features a grid of squares which, as they approach the bottom of the composition, become more and more rotated and perturbed from their original gridded spot.
-
-You will likely need many copies of the *range*, *series*, *graft tree*, *negative*, *random*, *reverse list*, and *construct domain* nodes.
-
-You will need just one node of *rotate*, *subtraction*, *flip matrix*, *square* (there are two, we want the one that makes a grid and not the "square root" one), *area*, *rotate* (there are three! we want the one that gives you geometry, angle, and plane inputs), *move*, *vector xyz*, *swatch*, and *custom preview*. This will be hard -- log questions!
-
-![Grasshopper Cubic Disarray Recreation](cubic-disarray-simple-screenshot.png)
-
-
-##### Listening and Reading (1 hour)
+##### Listening and Reading (1.5 hours)
 
 Listen to a fifteen minute selection of the [*Reflection* album/song/app experience](https://open.spotify.com/track/7MMXFqR5OagEJbZLzkxTL6?si=UfAOdbHqR1-3q8lLa1MN7A) by Brian Eno. 
 
 ![reflection](reflection.jpg)
 
-Then, check-out the related [Pitchfork interview](https://pitchfork.com/features/interview/10023-a-conversation-with-brian-eno-about-ambient-music/) which was produced at the release of *Reflection*. 
+Then, check-out the related [Pitchfork interview](https://pitchfork.com/features/interview/10023-a-conversation-with-brian-eno-about-ambient-music/) which was produced at the release of *Reflection*. Look-up any unfamiliar names or terms and write down **3 questions, surprises, or reflections** on the episode and article for sharing next week during class discussion.
 
 Optional: If these jams are your groove, also check out [Bloom](https://apps.apple.com/us/app/bloom/id292792586), the generative iPhone/iPad app developed by Brian Eno and his technical collaborator Peter Chilvers ($3.99). If especially interested, listen to this [recent interview podcast](https://echoes.org/2018/05/17/echoes-podcast-brian-eno-at-70/) with Eno wherein he eloquently discusses music "composing itself" and his lengthy career which intersected so many impactful musicians.
