@@ -124,7 +124,7 @@ We can use the Substrate Algorithm to create models like [Sidewalk Lab's *Delve*
 
 ##### Grasshopper (4 hours)
 
-Recreate the three examples above, paying special attention to grafting, flatterning, and random nodes, and compose any questions that bubble up in Miro. We'll spend lots of time next week in Grasshopper, so please log and plan to share any issues you encounter.
+Recreate the three examples above, paying special attention to grafting, flatterning, and random nodes, and compose any questions that bubble up in Miro. We'll spend lots of time next week in Grasshopper, so please log and plan to share any issues you encounter by marking up screenshots of the definitions in Miro.
 
 ##### Listening and Reading (1.5 hours)
 
