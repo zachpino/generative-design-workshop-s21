@@ -6,14 +6,7 @@ This week, we will take a look at how generative designers can use the regularit
 
 ### References for the Week
 
-- [Red Blob Games on Grids](http://www-cs-students.stanford.edu/~amitp/game-programming/grids/)
-- [Red Blob Games on Hex Grids](https://www.redblobgames.com/grids/hexagons/)
-- [Quasicrystals](https://en.wikipedia.org/wiki/Quasicrystal)
-- [Penrose Tiling](https://en.wikipedia.org/wiki/Penrose_tiling)
-- [Geometric Honeycomb](https://en.wikipedia.org/wiki/Honeycomb_(geometry))
-- [Beta-Skeletons](https://en.wikipedia.org/wiki/Beta_skeleton)
-- [Islamic Patterns](https://patterninislamicart.com/drawings-diagrams-analyses)
-- [Convex Hulls](https://en.wikipedia.org/wiki/Convex_hull)
+- [Christopher Alexander *A Pattern Language*](patternlanguage.pdf)
 - [*Rule of Six*](http://arandalasch.com/works/rules-of-six/) by Aranda Lasch
 - [Algorithmic Patterns for Façade Design](apfd.pdf) by Inês Caetano
 - [Paneling methods on complex surfaces](http://www.gasathj.com/tiki-read_article.php?articleId=31) by Matteo Codignola & Vito Sirago
@@ -22,6 +15,15 @@ This week, we will take a look at how generative designers can use the regularit
 - [Seed Cathedral](http://www.heatherwick.com/project/uk-pavilion/) by Thomas Heatherwick
 - [Geometricism](http://geometricism.com) by David Wade
 - [Esther Stocker](https://www.sightunseen.com/2010/02/esther-stocker-artist/)
+
+- [Red Blob Games on Grids](http://www-cs-students.stanford.edu/~amitp/game-programming/grids/)
+- [Red Blob Games on Hex Grids](https://www.redblobgames.com/grids/hexagons/)
+- [Penrose Tiling](https://en.wikipedia.org/wiki/Penrose_tiling)
+- [Geometric Honeycomb](https://en.wikipedia.org/wiki/Honeycomb_(geometry))
+- [Beta-Skeletons](https://en.wikipedia.org/wiki/Beta_skeleton)
+- [Islamic Patterns](https://patterninislamicart.com/drawings-diagrams-analyses)
+- [Convex Hulls](https://en.wikipedia.org/wiki/Convex_hull)
+- [Quasicrystals](https://en.wikipedia.org/wiki/Quasicrystal)
 
 -----
 
