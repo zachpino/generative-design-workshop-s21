@@ -41,6 +41,16 @@ Many methods exist to organize a *field of points* into structured sets. Many ge
 
 Grid structures allow for simple connections amongst a set of members *by grouping according to dimensional and axial relationships* and *proximity*. We often think of the *rows* and *columns* of grids as natively mapped to principle axes *x* and *y*, though these two-dimensional *square* grid structures can be transformed [without any data change](https://en.wikipedia.org/wiki/Graph_theory) into *radial*, *triangular*, *hexagonal*, *diamond*, or *staggered (brick)* schemata, amongst exotic others.
 
+##### Distance-Based Circles
+
+Create a grid of circles, and use the distance from a single movable point to determine the circles' radii.
+
+[Download](circles-definition.gh)
+
+![Grasshopper Definition](circles-grasshopper-update.png)
+
+![Grasshopper Walkthrough](circles-screenshot.gif)
+
 ##### Closest Points Walker
 
 Draw lines *from* a single movable point *to* a number of nearest grid points, to simulate a virtual 'spider' traversing the grid. Also, color nodes in grid based on distance to spider.
@@ -51,15 +61,6 @@ Draw lines *from* a single movable point *to* a number of nearest grid points, t
 
 ![Grasshopper Walkthrough](walker-screenshot.gif)
 
-##### Distance-Based Circles
-
-Create a grid of circles, and use the distance from a single movable point to determine the circles' radii.
-
-[Download](circles-definition.gh)
-
-![Grasshopper Definition](circles-grasshopper-update.png)
-
-![Grasshopper Walkthrough](circles-screenshot.gif)
 
 ##### Attractor/Repulsor
 
@@ -85,14 +86,28 @@ Use a movable point to manipulate the geometry of a 3D mesh surface.
 
 ### Homework
 
-##### Grasshopper (1.5 hours)
+##### Grasshopper (2 hours)
 
-Please recreate the *Deformable Mesh* example above. It is very similar to the *Attractor/Repulsor* variant we completed in class, and you might be able to build it already with the skills you have! Feel free to start by downloading the examples, though there will certainly be better learning outcomes if you *start from scratch* and try to build the parts that seem familiar first before adding the new methods necessary to make these examples function as animated above (vector and domain construction, respectively).
+Please recreate the four examples example above. They are all very similar (some use variations to show different ways of doing the same thing), and you might be able to build them with the Grasshopper skills you already have! Feel free to start by downloading the examples, though there will certainly be better learning outcomes if you try to *start from scratch* and drop in some nodes you think you'll need, and experimenting with wire connections. Nothing will break, experiment! 
 
-##### Listening and Watching II (1 hour)
+##### Grasshopper Challenge (3 hours)
+
+Attempt to create a Grasshopper definition the demonstrates the behavior in the gif below, which uses absolutely *no new nodes*. A good place to start is with language. What exactly is the grid of hexagons doing? And based on what factors? Don't let Grasshopper intimidate, use panels to check outputs frequently, log any questions, and submit your best (even incomplete) attempts to Miro as Grasshopper screenshots (File->Export High Res Images).
+
+You will need (potentially multiple) *hexagonal* grid, *flatten tree*, *graft tree*, *construct point*, *area*, *closest point*, *bounds*, *construct domain*, *remap numbers*, *gradient*, *scale*, *ruled surface*, and *custom preview*.
+
+Highly recommended to attempt this in small groups! Please reach out to your classmates to find times to work together if possible.
+
+![hexes](hexes.gif)
+
+The shapes are a bit reminiscent of Zaha Hadid's unfortunately [unfinished and recently burned *Beirut Souks*](https://www.thenationalnews.com/arts-culture/art/beirut-fire-the-design-story-of-the-building-zaha-hadid-conceptualised-12-years-ago-1.1078717). 
+
+![souks](souks.jpg)
+
+##### Generative Poetry (1 hour)
 
 Moving laterally a bit, but relating to our dive into generative music last week, let us investigate works in *generative literature* and *poetry*. **First**, visit [curated.ai](http://curatedai.com) and read through some of the poems hosted there. Please do not visit the "about" page until later.
 
-Then, read through this recent New Yorker article on generative literature: [What Happens When Machines Learn To Write Poetry](https://www.newyorker.com/culture/annals-of-inquiry/the-mechanical-muse). Following that, read this short introduction to *curated.ai* at Popular Science [Artificial Intelligences Are Writing Poetry For A New Online Literary Magazine](https://www.popsci.com/ai-poetry-literary-magazine/). 
+Then, read through this recent New Yorker article on generative literature: [*What Happens When Machines Learn To Write Poetry*](https://www.newyorker.com/culture/annals-of-inquiry/the-mechanical-muse). Following that, read this short introduction to *curated.ai* at Popular Science [*Artificial Intelligences Are Writing Poetry For A New Online Literary Magazine*](https://www.popsci.com/ai-poetry-literary-magazine/). 
 
-I hope we can have a robust argument about whether this is amazing, or terrible, next week. :confused:
+I hope we can have a robust argument about whether this is amazing, or terrible, next week. :confused: As always, three reflections please! 
