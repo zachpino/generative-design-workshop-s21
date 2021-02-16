@@ -100,6 +100,18 @@ From a structured grid, create a set of discrete Voronoi bounds using only close
 
 -----
 
+#### Seed Cathedral 
+
+Create a simple model of Heatherwick's [UK Pavilion (Seed Cathedral)](http://www.heatherwick.com/project/uk-pavilion/) by dxtending the closest point Voronoi logic into 3D attractors.
+
+[Download](seed-cathedral-definition.gh)
+
+![Grasshopper Definition](seed-cathedral-grasshopper.png)
+
+![Grasshopper Screenshot](seed-cathedral-screenshot.png)
+
+-----
+
 #### Simple Voronoi Region Coloring with Delaunay Connectivity
 
 View these algorithms at work, in combination, on random data....
