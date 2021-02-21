@@ -153,4 +153,4 @@ Sculpt real data into form in Grasshopper using this [dataset on the geographic 
 
 ### Homework
 
-To come!
+Consult the Miro board for homework outline.
