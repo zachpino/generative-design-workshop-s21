@@ -180,26 +180,4 @@ Route a train line through a city to adequately serve population centers. This i
 
 ### Homework
 
-#### Grasshopper (1 hour)
-
-Recreate the *Railway Routing* Grasshopper example on your machines and play with Galapagos. Adjust the weights of the sliders to see different outcomes, and perhaps try to create your own additional rewards and penalties. 
-
-Also, if interested, play with the *Solar Carve* example above as well.
-
-#### Final Project Development
-
-Please come next week prepared to discuss your [initial ideas for our class brief](../briefs.md) through a set of 2D or 3D sketches, using whatever art and design tools you have available. Let Zach know if you need tools!
-
-First, prepare real or [hypothetical data](https://www.mockaroo.com/), and create 20 sketches for how this data might *prompt*, *confront*, or *activate* behaviors in an audience. Yes, 20! We will share these in small groups next week, in digital break-out groups, so photograph or scan them before class. Please do not create a *key* on your scans or photographs, as we will begin by asking one another to try to *read* the data physicalizations without any aids.
-
-Consider through these sketches posture (does the object draw attention to itself or try to disappear?), archetype (is it a teapot or an earring?), attitude (does the visualization scold or applaud?), ritual (how do we engage these objects through time?), and obviously content (what kind of data? how could the data be transformed?).
-
-Super excited to see all the ideas! If you need some inspiration, hit the [best website on the planet for generative designers](http://dataphys.org/list/). It might be valuable to also start collecting inspirational and relevant projects, images, and datasets in evernote/pinterest/bookmark folder...
-
-#### Visualization Logging
-
-Create a bookmark folder and log all of the visualizations of Coronavirus that you encounter through the week, ideally from many different sources, so that we can chat next week about which are effective and legible, which teach, which mislead, and which provoke action and emotion. 
-
-#### Submit Work
-
-Please submit homework into the appropriate folders in the class Google Drive for this week - especially your ideas for the brief.
+To come after class.
