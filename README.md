@@ -21,3 +21,5 @@ Like all courses affected by the ongoing pandemic, we will use a combination of 
 - Week 03 · [Randomness and Data Flow](week03/README.md)
 - Week 04 · [Grids and Data Scaffolds](week04/README.md)
 - Week 05 · [Designing with Algorithms](week05/README.md)
+- Week 06 · [Evolutionary Modeling](week06/README.md)
+
