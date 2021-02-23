@@ -1,4 +1,4 @@
-# Week 8 · Evolutionary Forms and Genetic Algorithms
+# Week 6 · Evolutionary Modeling
 
 Ever wanted to let your design projects design themselves? This is the week for you! 
 
