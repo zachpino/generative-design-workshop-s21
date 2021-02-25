@@ -31,6 +31,18 @@ Weird, controllable, helical structures — designed to reinforce and expand upo
 
 -----
 
+#### NASA's Perseverance Secret Parachute Message
+
+For fun - NASA's Perseverance Mars Lander had a [secret message encoded in its parachute](https://www.cbsnews.com/news/nasa-mars-perseverance-rover-parachute-hidden-message-binary-code/). This file recreates the pattern on the parachute, and translates the encoded statement, which requires a few back-and-forths between [decimal, binary, and ASCII](https://www.ascii-code.com). It's great tree management practice!
+
+[Download](parachute-definition.gh)
+
+![Grasshopper Definition](parachute-grasshopper.png)
+
+![Grasshopper Screenshot](parachute-screenshot.png)
+
+-----
+
 ### Homework
 
 Consult the Miro board for homework outline.
