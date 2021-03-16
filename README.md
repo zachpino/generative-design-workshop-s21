@@ -23,6 +23,6 @@ Like all courses affected by the ongoing pandemic, we will use a combination of 
 - Week 05 · [Designing with Algorithms](week05/README.md)
 - Week 06 · [Branching](week06/README.md)
 - Week 07 · Working on Plots!
-- Midsemester · Briefs
+- Mid-semester · Briefs
 - Week 08 · [Evolutionary Modeling](week08/README.md)
 
