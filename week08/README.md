@@ -1,4 +1,4 @@
-# Week 6 · Evolutionary Modeling
+# Week 8 · Evolutionary Modeling
 
 Ever wanted to let your design projects design themselves? This is the week for you! 
 
