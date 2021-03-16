@@ -173,11 +173,3 @@ Route a train line through a city to adequately serve population centers. This i
 ![Screenshot](subway-screenshot.png)
 
 ![Grasshopper Image](subway-grasshopper.png)
-
-
------
-
-
-### Homework
-
-To come after class.
