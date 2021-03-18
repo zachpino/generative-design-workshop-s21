@@ -1,6 +1,6 @@
-# Generative Design Workshop Final Briefs – Designing Contextual Intelligences
+# Designing Contextual Intelligences
 
-### Project Description
+###  Generative Design Workshop Final Briefs – Project Description
 
 We have explored many, many generative tools and approaches this semester. Some have long histories and some are very new, but all can be applied in novel spaces today. And in the near, forecasted future — recent advances in data capture and analysis render generative tools not only possible for future design application, but also plausibly deployable in all sort of contexts. So, let's make some cool things with data and algorithms!
 
