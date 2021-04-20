@@ -46,7 +46,7 @@ Through all these: Be weird. Do weird stuff. Make weird things.
 
 ### Deliverables
 
-- Produce **three** representative outputs of your generative understanding — fabricated by hand or machine. This will be discussed with each team.
+- Produce **three** representative outputs of your generative understanding — in image, or fabricated by hand or machine.
 
 - Illustrated key to reading your outputs and how they encode your algorithmic understanding, designed for a 5"x7" post card, double-sided (one side featuring renders or photos), styled in combination with your outputs.
 
