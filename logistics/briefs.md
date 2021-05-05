@@ -46,10 +46,11 @@ Through all these: Be weird. Do weird stuff. Make weird things.
 
 ### Deliverables
 
-- Produce **three** representative outputs of your generative understanding — in image, or fabricated by hand or machine.
+- Produce **three** representative outputs of your generative understanding — in image/graphics, or fabricated by hand or machine.
 
-- Illustrated key to reading your outputs and how they encode your algorithmic understanding, designed for a 5"x7" post card, double-sided (one side featuring renders or photos), styled in combination with your outputs.
+- A 5"x7” double-sided post card, with one side featuring the outputs from the above bullet, and the other side showing an illustrated key to help viewers understand your algorithmic designs, styled in support of your project. Examples [here](https://github.com/zachpino/generative-design-workshop-s20/blob/master/week14/README.md).
 
 - Annotated Grasshopper, Rhino, or other design files.
 
 - 250-500 word description of your project, and how your algorithmic intelligence makes decisions.
+
